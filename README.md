@@ -1,7 +1,7 @@
 # Disease-Diagnosis-using-Chatbot
 An AI-powered chatbot system that predicts diseases based on user symptoms using machine learning algorithms. It also suggests relevant drugs, dietary recommendations, and doctor details — acting as a virtual health assistant.
 
-Features
+FEATURES
 Symptom-based disease prediction using Logistic Regression and SVM
 Personalized drug suggestions and dietary recommendations
 Email alerts with diagnosis and home remedies
@@ -9,7 +9,7 @@ Doctor recommendation with appointment booking
 Lifestyle and disease awareness information
 User-friendly web interface using Flask
 
-Tech Stack
+TECH STACK
 Backend: Python, Flask
 Frontend: HTML, CSS (basic)
 Database: MySQL
